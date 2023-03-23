@@ -1,3 +1,3 @@
-function FindProxyByUrl(url, host) {
+function FindProxyForURL(url, host) {
     return 'PROXY 10.3.106.237:9091';
 }
